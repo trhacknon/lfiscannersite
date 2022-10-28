@@ -1,0 +1,3 @@
+pip install re
+pip install pyfiglet
+pip install requests
